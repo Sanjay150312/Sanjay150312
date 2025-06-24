@@ -1,0 +1,7 @@
+- 🌱 I’m currently diving deeper into Embedded Systems and the Internet of Things  
+- 👯 I’m looking to collaborate on robotics, IoT automation, and stepper motor projects  
+- 🤔 I’m looking for help with advanced motor control techniques and real-time embedded systems  
+- 💬 Ask me about STM32,Rugged board A5D2X or GPIO troubleshooting  
+- 📫 How to reach me: jayasanjay143thangavel@gmail.com | https://www.linkedin.com/in/sanjay-t-38a5b4331/   
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I once debugged a motor issue faster than it took my coffee to brew ☕⚙️
