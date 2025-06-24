@@ -9,7 +9,7 @@ Hi 👋, I'm Sanjay
 🧠 Tech Stack  
 - Languages: C, Python  
 - Basics: Java, HTML, CSS, ReactJS  
-- Platforms: STM32, Arduino, ESP32  
+- Platforms: STM32,Rugged Board A5D2X 
 - Skills: Stepper Motor Control (ULN2003, L298N), GPIO Debugging, PWM, Half-Step/Full-Step Sequences  
 - Tools: STM32CubeIDE, Logic Analyzers, LibreOffice  
 
@@ -37,5 +37,5 @@ Specialized in Embedded Systems & Internet of Things
 ---
 
 📊 GitHub Stats  
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay150312&show_icons=true&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay150312&layout=compact&theme=gruvbox)  
+📊 Top Language  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay150312&layout=compact&theme=gruvbox)
