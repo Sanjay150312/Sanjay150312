@@ -35,7 +35,6 @@ Specialized in Embedded Systems & Internet of Things
 ⚡ Fun Fact: I’ve solved motor coil mismatches faster than my debugger could boot up!  
 
 ---
-
-📊 GitHub Stats  
+ 
 📊 Top Language  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay150312&layout=compact&theme=gruvbox)
