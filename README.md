@@ -2,7 +2,7 @@ Hi 👋, I'm Sanjay
 ==============================
 
 💻 MCA Student @ Rathinam Technical Campus  
-🤖 Embedded Systems & IoT Explorer | 🧰 GPIO Tinkerer | 🚀 Always Curious  
+🤖 Embedded Systems & IoT Explorer | 🧰 GPIO Tinkerer | 🚀 Always Curious
 
 ---
 
