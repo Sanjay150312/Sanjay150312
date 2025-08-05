@@ -29,7 +29,7 @@ Specialized in Embedded Systems & Internet of Things
 ---
 
 📫 How to reach me:  
-📧 jayasanjay143thangavel@gmail.com
+📧 sanjayt06.off@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/sanjay150312)  
 😄 Pronouns: He/Him  
 ⚡ Fun Fact: I’ve solved motor coil mismatches faster than my debugger could boot up!  
