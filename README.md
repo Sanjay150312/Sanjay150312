@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sanjay  
-### 🚀 Embedded Systems & Cloud Enthusiast | 🧠 GPIO Tinkerer | 💡 Always Curious  
+### ☁️ Cloud & DevOps Explorer | 🔧 Automation Enthusiast | 🧠 GPIO Tinkerer  
 
 ---
 
@@ -10,28 +10,36 @@
 ---
 
 ## 🧠 Tech Stack  
-- **Languages**: C, Python  
+- **Languages**: Python, Bash, C  
+- **DevOps Tools**: Git, Docker, Terraform, Postman  
+- **Cloud Platforms**: AWS (EC2, S3, IAM, CloudWatch)  
+- **CI/CD & Infra**: GitHub Actions, YAML, Infrastructure as Code  
+- **Monitoring & Automation**: Cron jobs, shell scripting, lifecycle policies  
 - **Basics**: Java, HTML, CSS, ReactJS  
-- **Platforms**: STM32, Rugged Board A5D2X  
-- **Skills**:  
-  - Stepper Motor Control (ULN2003, L298N)  
-  - GPIO Debugging & PWM Configuration  
-  - Half-Step / Full-Step Sequences  
-- **Tools**: STM32CubeIDE, Logic Analyzers, LibreOffice  
 
 ---
 
 ## 🚀 Current Focus  
-- Real-time embedded systems with PWM-based control  
-- Optimizing stepper motor performance and pin configuration  
-- Exploring automation workflows with IoT and cloud integration  
+- Automating cloud deployments with Terraform and GitHub Actions  
+- Designing scalable AWS architectures for real-time applications  
+- Streamlining CI/CD pipelines and infrastructure provisioning  
+- Creating syntax sheets and infographics for SRtechops community  
 
 ---
 
 ## 🌐 Projects & Interests  
-- Modular sensor platforms using ESP32  
-- Web-integrated data acquisition systems  
-- Bridging embedded systems with AWS for scalable IoT solutions  
+- S3 lifecycle automation and EC2 provisioning workflows  
+- Cloud-integrated sensor platforms using ESP32  
+- DevOps dashboards and monitoring setups for campus demos  
+- Peer mentorship through LinkedIn content and SRtechops branding  
+
+---
+
+## 🔧 Embedded Systems (Still Close to My Heart)  
+- Stepper Motor Control (ULN2003, L298N)  
+- GPIO Debugging & PWM Configuration  
+- Platforms: STM32, Rugged Board A5D2X  
+- Tools: STM32CubeIDE, Logic Analyzers  
 
 ---
 
@@ -39,7 +47,7 @@
 📧 Email: sanjayt06.off@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sanjay150312)  
 😄 Pronouns: He/Him  
-⚡ Fun Fact: I’ve solved motor coil mismatches faster than my debugger could boot up!  
+⚡ Fun Fact: I’ve deployed EC2 instances faster than my debugger could boot up!  
 
 ---
 
